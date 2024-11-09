@@ -1,1 +1,1 @@
-# SKoltech "Intro to CV" course Fall 2023 
+# Skoltech "Intro to CV" course Fall 2023 
